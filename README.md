@@ -1,4 +1,8 @@
-👨‍💻 Wilson Hernández Rivas 🎓 Docente de Informática 📍 Centro Escolar INSA 💻 Bachillerato en Infraestructura Tecnológica y Servicios Informáticos
+👨‍💻 Wilson Hernández Rivas 
+
+🎓 Docente de Informática 
+📍 Centro Escolar INSA 
+💻 Bachillerato en Infraestructura Tecnológica y Servicios Informáticos
 
 📖 Sobre mí Soy docente de informática apasionado por la tecnología, la innovación educativa y el desarrollo de proyectos tecnológicos con enfoque práctico. Me especializo en la formación de estudiantes en áreas de infraestructura tecnológica, y servicios informaticos.
 
